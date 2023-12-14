@@ -1,1 +1,1 @@
-Algoritmos desenvolvidos para tentar aprender a linguagem Python.
+Algoritmos desenvolvidos ao aprender a linguagem Python.
